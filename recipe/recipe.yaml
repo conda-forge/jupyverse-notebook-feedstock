@@ -26,7 +26,6 @@ requirements:
     - python >=${{ python_min }}
     - fastapi-core
     - jupyverse-auth >=0.2.0,<0.3.0
-    - jupyverse-lab >=0.1.0,<0.2.0
     - jupyverse-api >=0.15.0,<0.16.0
 
 tests:
