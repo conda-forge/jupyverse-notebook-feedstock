@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.2"
+  version: "0.1.3"
 
 package:
   name: jupyverse-notebook
@@ -9,7 +9,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/j/jupyverse-notebook/jupyverse_notebook-${{ version }}.tar.gz
-    sha256: f2055177fc7fe3df1c5050f56cb21ae18e2975d7a098456fd8b9faf48b8ec38b
+    sha256: 38ce57d9f967a8ea98510d12d7055cf57b56902b709ebbdd065affacfdee9585
 
 build:
   noarch: python
